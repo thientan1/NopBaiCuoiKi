@@ -1,0 +1,6 @@
+1.Tải Code + Cơ sở dữ liệu về máy
+2.Đăng nhập vào MySql để add Cơ sở dữ liệu vào
+3.Rồi vào eclipse(nhấn vào file ,nhấn vào Open project from file system để add code vào,kiểm tra xem phiên bản jdk hợp lệ không)(nên sử dụng vscode mở để tránh bị lỗi không mở được)
+4.Vào eclips chọn update maven,tải springboot về máy
+5.Vào phần (Src và bin)-main-resources chọn application.properties(ở chỗ phần name và user thay đổi cho giống tài khoản mysql của máy mình)
+6.Tài khoản Admin của web(TK:Admin@gmail.com MK:123456)
